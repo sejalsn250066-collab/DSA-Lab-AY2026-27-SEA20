@@ -4,14 +4,14 @@ Academic Year: 2026–2027
 
 Student Information
 
-Student Name: Your Name
+Student Name: Sejal Suryawanshi
 
-Roll Number: Your Roll Number
+Roll Number: SEA12
 
-Division: SEA
+Division: ENTC
 
-Batch: Your Batch
+Batch: SY
 
 Course Name: Data Structures and Algorithms Laboratory
 
-Faculty Name: Faculty Name
+Faculty Name: Dr. Varsha Degaonkar
